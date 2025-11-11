@@ -8,7 +8,8 @@
 
 
 # VLSM #
-<img width="614" height="511" alt="image" src="https://github.com/user-attachments/assets/a69eb34d-a8ca-467f-920a-194e77a550f6" />
+<img width="697" height="498" alt="image" src="https://github.com/user-attachments/assets/8fce525b-f51f-47ae-a9f3-81bc4d2b2419" />
+
 
 
 # TABEL VLSM #
