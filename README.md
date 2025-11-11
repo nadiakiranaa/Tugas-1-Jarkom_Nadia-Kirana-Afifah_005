@@ -4,7 +4,8 @@
 
 
 # SUBNETING #
-<img width="581" height="181" alt="image" src="https://github.com/user-attachments/assets/d7900a4c-0c31-41db-b952-24737d8bc3b0" />
+<img width="936" height="241" alt="image" src="https://github.com/user-attachments/assets/f7e0f54a-74d7-446b-96ff-bac018dd74bc" />
+
 
 
 # VLSM #
