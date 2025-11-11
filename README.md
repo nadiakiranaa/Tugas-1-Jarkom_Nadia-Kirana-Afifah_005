@@ -38,7 +38,8 @@
 | Link WAN                    | 10.45.0.0    | 255.255.255.252   | /30        | 10.45.0.1 - 10.45.0.2                 | 10.45.0.3    | 10.45.0.1            |
 
 # CIDR #
-<img width="1008" height="413" alt="image" src="https://github.com/user-attachments/assets/d68178d8-9e1e-43b3-bde3-cbb2d36d09d9" />
+<img width="1002" height="380" alt="image" src="https://github.com/user-attachments/assets/b9a8c530-9b8e-4506-a4df-4c5337c07044" />
+
 
 
 
